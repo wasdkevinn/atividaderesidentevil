@@ -35,13 +35,13 @@ p{
 }
 
 .container-texto h1{
-    font-size: 4rem;
+    font-size: 2.8rem;
     margin-bottom: 20px;
     color: darkred;
 }
 
 .container-texto p{
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     margin-bottom: 30px;
 }
 
@@ -291,11 +291,11 @@ form button:hover {
     }
 
     .container-texto h1{
-        font-size: 3rem;
+        font-size: 3.5rem;
     }
 
     .container-texto p{
-        font-size: 1.5rem;
+        font-size: 1.7rem;
     }
 }
 
